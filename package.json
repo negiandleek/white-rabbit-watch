@@ -1,5 +1,5 @@
 {
-  "name": "whiterabbit-watch",
+  "name": "white-rabbit-watch",
   "version": "0.0.1",
   "description": "it module manage a short time like white rabbit of Alice in Wonderland",
   "main": "public/index.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/youya66/whiterabbit-watch/"
+    "url": "https://github.com/youya66/white-rabbit-watch/"
   },
   "keywords": [
     "timer",
