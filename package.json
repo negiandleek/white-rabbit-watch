@@ -1,0 +1,40 @@
+{
+  "name": "whiterabbit-watch",
+  "version": "0.0.1",
+  "description": "it module manage a short time like white rabbit of Alice in Wonderland",
+  "main": "public/index.js",
+  "files": [
+    "public"
+  ],
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --watch --require babel-core/register './test/**/*.js'",
+    "build": "babel lib --out-dir public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/youya66/whiterabbit-watch/"
+  },
+  "keywords": [
+    "timer",
+    "alarm",
+    "count",
+    "down",
+    "tomollow",
+    "time"
+  ],
+  "author": "youya66",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "mocha": "^5.2.0",
+    "sinon": "^6.0.1",
+    "underscore": "^1.9.1"
+  }
+}
