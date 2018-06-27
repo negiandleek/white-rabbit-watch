@@ -1,6 +1,6 @@
 {
   "name": "white-rabbit-watch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "it module manage a short time like white rabbit of Alice in Wonderland",
   "main": "public/index.js",
   "files": [
